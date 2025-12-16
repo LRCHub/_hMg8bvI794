@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Enigma",
+  "base_artist": "Empty old City",
+  "createdAt": "2025-12-16T13:29:32.982346Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Enigma",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/01_Enigma_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Arcanum (Da Vinci's Enigma)",
+      "artist": "Turilli / Lione Rhapsody",
+      "has_synced": true,
+      "path": "select/02_Arcanum_(Da_Vinci's_Enigma)_Turilli___Lione_Rhapsody.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Enigma of the Absolute",
+      "artist": "Dead Can Dance",
+      "has_synced": true,
+      "path": "select/03_Enigma_of_the_Absolute_Dead_Can_Dance.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Enigma (Doss Remix)",
+      "artist": "Lady Gaga feat. Doss",
+      "has_synced": true,
+      "path": "select/04_Enigma_(Doss_Remix)_Lady_Gaga_feat._Doss.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Enigma (Doss Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/05_Enigma_(Doss_Remix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Enigma",
+      "artist": "Alphaville",
+      "has_synced": true,
+      "path": "select/06_Enigma_Alphaville.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Voice Of Enigma",
+      "artist": "Enigma",
+      "has_synced": true,
+      "path": "select/07_The_Voice_Of_Enigma_Enigma.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Silent Enigma",
+      "artist": "Anathema",
+      "has_synced": true,
+      "path": "select/08_The_Silent_Enigma_Anathema.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Enigma",
+      "artist": "Moonlight Haze",
+      "has_synced": true,
+      "path": "select/09_Enigma_Moonlight_Haze.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Enigma of Life",
+      "artist": "Sirenia",
+      "has_synced": true,
+      "path": "select/10_The_Enigma_of_Life_Sirenia.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Enigma of Life - Acoustic Version",
+      "artist": "Sirenia",
+      "has_synced": true,
+      "path": "select/11_The_Enigma_of_Life_-_Acoustic_Version_Sirenia.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Quantum Enigma - Kingdom of Heaven, Pt. II",
+      "artist": "Epica",
+      "has_synced": false,
+      "path": "select/12_The_Quantum_Enigma_-_Kingdom_of_Heaven,_Pt._II_Epica.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Quantum Enigma - Kingdom of Heaven part II -",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/13_The_Quantum_Enigma_-_Kingdom_of_Heaven_part_II_-_Epica.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Enigma",
+      "artist": "Manticora",
+      "has_synced": true,
+      "path": "select/14_Enigma_Manticora.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Quantum Enigma (Kingdom of Heaven, Part II)",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/15_The_Quantum_Enigma_(Kingdom_of_Heaven,_Part_II)_Epica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Enigma",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/pl_01_Enigma_Empty_old_City.txt"
+    }
+  ]
+}
